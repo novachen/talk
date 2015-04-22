@@ -1,5 +1,5 @@
-root_input = 'D:\360极速浏览器下载\artimg\';
-root_output = 'D:\git\talk\artimg\';
+root_input = 'D:\360极速浏览器下载\artpost\';
+root_output = 'D:\git\talk\artpost\';
 d = dir([root_input, '*.jpg']);
 darkRatio = 0.5;
 
