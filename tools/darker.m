@@ -1,5 +1,5 @@
-root_input = 'D:\360¼«ËÙä¯ÀÀÆ÷ÏÂÔØ\artpost\';
-root_output = 'D:\git\talk\artpost\';
+root_input = 'D:\famous\';
+root_output = 'D:\famous2\';
 d = dir([root_input, '*.jpg']);
 darkRatio = 0.5;
 
