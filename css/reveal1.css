@@ -43,6 +43,7 @@ body {
   color: #fff;
   text-shadow: none; }
 
+
 /*********************************************
  * DEFAULT ELEMENT STYLES
  *********************************************/
@@ -68,6 +69,19 @@ body {
   -moz-box-sizing: border-box;
        box-sizing: border-box; }
 
+
+
+/*********************************************
+ * SLIDE NUMBER
+ *********************************************/
+.reveal .slide-number {
+  position: fixed;
+  display: block;
+  right: 15px;
+  bottom: 15px;
+  opacity: 0.5;
+  z-index: 31;
+  font-size: 12px; }
 
 /*********************************************
  * SLIDES
