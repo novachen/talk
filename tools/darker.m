@@ -1,5 +1,5 @@
-root_input = 'U:\Œ‚∑∆∑∆\web\Œ‚∑∆∑∆\origin\';
-root_output = 'U:\Œ‚∑∆∑∆\web\Œ‚∑∆∑∆\output\';
+root_input = 'd:\pic1\';
+root_output = 'd:\pic2\';
 d = dir([root_input, '*.jpg']);
 darkRatio = 0.5;
 
